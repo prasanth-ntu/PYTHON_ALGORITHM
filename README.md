@@ -22,14 +22,24 @@ python3 get-pip.py
 pip install matplotlib
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the code
+## Details of the code
 
 As of now, there's one code in the repository. 
 As time goes by, more and more sample code will be added.
 
-[1_sorting_algo_diff_kinds_with_animation](https://github.com/PRASANTH-NTU/PYTHON_ALGORITHM/blob/master/1_sorting_algo_diff_kinds_with_animation.py) - This program sorts the randoly generated data into using different sorting algorithm such as monkey sort, bubble sort, selection sort and merge sort.
+[1_sorting_algo_diff_kinds_with_animation](https://github.com/PRASANTH-NTU/PYTHON_ALGORITHM/blob/master/1_sorting_algo_diff_kinds_with_animation.py) - This program sorts the randoly generated data using different sorting algorithm such as monkey sort, bubble sort, selection sort and merge sort.
+
+##  Running the code
+#### [1_sorting_algo_diff_kinds_with_animation](https://github.com/PRASANTH-NTU/PYTHON_ALGORITHM/blob/master/1_sorting_algo_diff_kinds_with_animation.py)	  
+* Simply download the code and double click to run it. The code will open a figure in which the 200 unsorted data points from 0 to 199 will be sorted in real time. Everytime, when you run the code, it will randomly choose a sorting algo and implement it.
+* By running the code in the command prompt/ terminal with arguments, the functionality of the code can be modified
+* To run the code in the command prompt/ terminal, type
+
+ ```python3 1_sorting_algo_diff_kinds_with_animation.py [algo_id] [data_size] [interval]```
+* The 3 arguments beside the file name are optional
+* ```[algo id]``` should be 1, 2, 3 or 4. 1 to run Bogo sort, 2 to run Bubble sort, 3 to run Selection sort, 4 to run Merge sort.
+* ```[data_size]``` can be of any size. Default is 200.
+* ```[interval]``` is the interval (in ms) at which the figure have to be updates. Default is 50 ms.
 
 
 ## Authors
