@@ -1,9 +1,9 @@
 ''''
 
  Title              : An animation of random data with different sorting algo
- Purpose:           : An imrovised and live animation - Better than pyplot implemented earlier 
+ Purpose:           : An improvised and live animation - Better than pyplot implemented earlier in version 1
  Version            : 2
- Version changes    : 1.Added list size as additional argument
+ Version changes    : 1. Added list size as additional argument
                     : 2. marker shapre and color will be randomly selected by algo)
  Instruction        : argv[0] - Type of algo to choose
                     : argv[1] - No of items to be sorted
