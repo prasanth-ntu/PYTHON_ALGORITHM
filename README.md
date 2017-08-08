@@ -22,6 +22,11 @@ python3 get-pip.py
 pip install matplotlib
 ```
 
+If there's more than one version of Python installed in the computer, type
+```
+pip3.6 install matplotlib
+```
+
 ## Details of the code
 
 As of now, there's one code in the repository. 
