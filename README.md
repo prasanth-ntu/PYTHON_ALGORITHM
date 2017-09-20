@@ -32,7 +32,7 @@ pip3.6 install matplotlib
 As of now, there's one code in the repository. 
 As time goes by, more and more sample code will be added.
 
-[1_sorting_algo_diff_kinds_with_animation](https://github.com/PRASANTH-NTU/PYTHON_ALGORITHM/blob/master/1_sorting_algo_diff_kinds_with_animation.py) - This program sorts the randoly generated data using different sorting algorithm such as monkey sort, bubble sort, selection sort and merge sort.
+[1_sorting_algo_diff_kinds_with_animation](https://github.com/PRASANTH-NTU/PYTHON_ALGORITHM/blob/master/1_sorting_algo_diff_kinds_with_animation.py) - This program sorts the randoly generated data using different sorting algorithm such as **monkey sort, bubble sort, selection sort** and **merge sort**.
 
 ##  Running the code
 #### [1_sorting_algo_diff_kinds_with_animation](https://github.com/PRASANTH-NTU/PYTHON_ALGORITHM/blob/master/1_sorting_algo_diff_kinds_with_animation.py)	  
