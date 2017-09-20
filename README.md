@@ -42,7 +42,11 @@ As time goes by, more and more sample code will be added.
 
  ```python3 1_sorting_algo_diff_kinds_with_animation.py [algo_id] [data_size] [interval]```
 * The 3 arguments beside the file name are optional
-* ```[algo id]``` should be 1, 2, 3 or 4. 1 to run Bogo sort, 2 to run Bubble sort, 3 to run Selection sort, 4 to run Merge sort.
+* ```[algo id]``` should be 1, 2, 3 or 4. 
+	* 1 to run Bogo sort, 
+	* 2 to run Bubble sort, 
+	* 3 to run Selection sort, 
+	* 4 to run Merge sort.
 * ```[data_size]``` can be of any size. Default is 200.
 * ```[interval]``` is the interval (in ms) at which the figure have to be updates. Default is 50 ms.
 
